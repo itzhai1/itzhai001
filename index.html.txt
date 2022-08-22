@@ -1,0 +1,16 @@
+<!DOCTPYE html>
+<html lang="zh-CN">
+   <head>
+       <meta charset="utf-8">
+       <meta name="viewport" content="width=device-with,initial-scale=1"/>
+       <title>地球村</title>
+       <style>
+           body{
+               margin：0；
+           }
+       </style>
+   </head>
+   <body>
+       <p>人类只有一个地球，保护地球，爱护人类，是每一个地球人的责任和义务。身为地球人，同住地球村，热爱自己，热爱地球，共创美好，迎接明天。</p >
+   <body>
+</html>
